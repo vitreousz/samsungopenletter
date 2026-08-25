@@ -1,4 +1,5 @@
 
+An Open Letter to Samsung: Stop Treating User Storage as Disposable Collateral
 
 Just a remark before I start I have now ben able to get my a57 to be on for 144 hours and I got 30% left on battery,
 that says quite a bit of how samsung android and one ui is over bloated with apps using its resources!
