@@ -1,6 +1,8 @@
 
 An Open Letter to Samsung:
 
+The first test has now ended 20260929 with 258h on battery and some minutes.
+
 I have now been able to get my a57 to be on for 204 hours and I got 16% left on battery,
 on top of this wifi was on 24/7 that says quite a bit of how samsung android and one ui is over bloated with apps
 using its resources!
