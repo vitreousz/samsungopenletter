@@ -1,5 +1,13 @@
-
 An Open Letter to Samsung:
+
+An addendum to this,
+
+Now with latest UI update in early september, devcheck shows continous spikes of processing in efficiency core cpu never idles like before,
+Either this is a bug, or even worse that it could be samsunge trying to circumvent user settings.
+
+EITHER OR SAMSUNG CANT EVEN MAKE A FIRMWARE WITHOUT EFFING IT ALL UP!
+
+
 
 The first test has now ended 20260929 with 258h on battery and some minutes.
 
