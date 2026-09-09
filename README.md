@@ -9,6 +9,20 @@ EITHER OR SAMSUNG CANT EVEN MAKE A FIRMWARE WITHOUT EFFING IT ALL UP!
 
 This is now on TWO samsung mobiles so its now just a fluke!
 
+Which Samsung or Google system processes are responsible for the continuous CPU activity?
+
+Is this intentional behavior or a firmware bug?
+
+Does it increase flash-storage writes, standby power consumption, heat, or battery wear?
+
+Why is this activity not visible or controllable through ordinary system settings?
+
+Will Samsung provide a firmware fix or a way to disable the responsible background activity?
+
+SINCE ANDROID IS SO LOCKED DOWN A USER CANT CHECK WHAT PROCESSES ARE COUSING THIS WITH TOOLS LIKE HTOP OR SIMILAR.
+
+A USER CANT EVEN ACCESS APP SETINGS IN FOLDERS TO EDIT THOSE LIKE A NORMAL OS WHERE A USER CAN!
+
 
 
 
