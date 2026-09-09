@@ -7,6 +7,11 @@ Either this is a bug, or even worse that it could be samsunge trying to circumve
 
 EITHER OR SAMSUNG CANT EVEN MAKE A FIRMWARE WITHOUT EFFING IT ALL UP!
 
+This is now on TWO samsung mobiles so its now just a fluke!
+
+
+
+
 
 
 The first test has now ended 20260929 with 258h on battery and some minutes.
